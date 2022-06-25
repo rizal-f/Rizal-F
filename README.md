@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rizal-F&label=Profile%20views&color=0e75b6&style=flat" alt="sultansam" /> </p>
 
-- 🌱 I’m currently learning **Fullstack engineer**
+- 🌍  I'm based in Bogor, Indonesia
+
+- 🌱 I’m currently learning **Fullstack Javascript**
+
+- 🤝  I'm open to collaborating on Web Development, Mobile Development
 
 - 📫 How to reach me **fachruddin18genz@gmail.com**
 
