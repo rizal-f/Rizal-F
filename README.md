@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <div style="width:100%;height:0;padding-bottom:45%;position:relative;"><iframe src="https://giphy.com/embed/NKEt9elQ5cR68" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/art-pixel-city-NKEt9elQ5cR68">via GIPHY</a></p>
 -->
-<iframe src="https://giphy.com/embed/NKEt9elQ5cR68" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/art-pixel-city-NKEt9elQ5cR68">via GIPHY</a></p>
+![MasterHead](https://giphy.com/gifs/art-pixel-city-NKEt9elQ5cR68)
 
 <h1 align="center">Hi 👋, I'm Muhammad Rizal Fakhruddin</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
