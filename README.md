@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **Rizal-F/Rizal-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <div style="width:100%;height:0;padding-bottom:45%;position:relative;"><iframe src="https://giphy.com/embed/NKEt9elQ5cR68" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/art-pixel-city-NKEt9elQ5cR68">via GIPHY</a></p>
 -->
-<div style="width:100%;height:0;padding-bottom:45%;position:relative;"><iframe src="https://giphy.com/embed/NKEt9elQ5cR68" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/art-pixel-city-NKEt9elQ5cR68">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/81373973/175752605-12811460-48c2-4abc-8e41-511e31dcc9c0.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Rizal Fakhruddin</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
