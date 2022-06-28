@@ -57,6 +57,9 @@ Here are some ideas to get you started:
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 
+<a href="https://www.github.com/Rizal-F" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Rizal-F?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/karunialeo"><img src="https://github-readme-stats.vercel.app/api?username=Rizal-F&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="karunialeo's GitHub stats" /></a>
+<a href="http://www.github.com/Rizal-F"><img src="https://github-readme-stats.vercel.app/api?username=Rizal-F&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="karunialeo's GitHub stats" /></a>
