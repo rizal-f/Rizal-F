@@ -66,4 +66,3 @@ src="https://img.shields.io/github/followers/Rizal-F?logo=github&style=for-the-b
   ![Rizal-F's Stats](https://github-readme-stats.vercel.app/api?username=Rizal-F&theme=radical&show_icons=true&hide_border=true&count_private=true)
   ![Rizal-F's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizal-F&theme=radical&show_icons=true&hide_border=true&layout=compact)
   
-<a href="http://www.github.com/Rizal-F"><img src="https://github-readme-stats.vercel.app/api?username=Rizal-F&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rizal Fakhruddin's GitHub stats" /></a>
