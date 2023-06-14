@@ -62,7 +62,7 @@ src="https://img.shields.io/github/followers/Rizal-F?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-  ![Rizal-F's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rizal-F&theme=radical&hide_border=true)
   ![Rizal-F's Stats](https://github-readme-stats.vercel.app/api?username=Rizal-F&theme=radical&show_icons=true&hide_border=true&count_private=true)
+  ![Rizal-F's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rizal-F&theme=radical&hide_border=true)
   ![Rizal-F's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizal-F&theme=radical&show_icons=true&hide_border=true&layout=compact)
   
